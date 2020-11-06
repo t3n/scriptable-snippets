@@ -21,3 +21,5 @@ Das [**t3n News Widget** 🔗](https://github.com/t3n/scriptable-snippets/blob/m
 - Drücke dann auf **"Widget hinzufügen"**.
 - Indem du auf das neu hinzugefügte Widget drückst, kannst du unter "Script" das von dir hinzugefügte Snippet auswählen.
 - Et voila, auf deinem Home Screen sollte jetzt das Widget vorhanden sein! ✨
+
+> Eine Kurzanleitung zur Installation von Widgets mit Scriptable und weitere nützliche Scripts findest du auch in unserem Artikel [Covid-19: So baut ihr euch ein Inzidenz-Wert-Widget für iOS 14](https://t3n.de/news/covid-19-inzidenz-widget-fuer-ios-14-1330732/)
