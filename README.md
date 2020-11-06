@@ -1,4 +1,4 @@
-#t3n Scriptable Snippets
+# t3n Scriptable Snippets
 
 ### t3n News
 
