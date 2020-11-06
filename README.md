@@ -6,7 +6,7 @@ Das [**t3n News Widget** 🔗](https://github.com/t3n/scriptable-snippets/blob/m
 
 > Code: https://raw.githubusercontent.com/t3n/scriptable-snippets/master/snippets/t3n-news.js
 
-### Installation
+## Installation
 
 - Die Snippets findest du im Ordner [**Snippets** 🔗](https://github.com/t3n/scriptable-snippets/blob/master/snippets).
 - Klicke auf das Snippet, das du installieren möchtest, und kopiere den Code. (Dies geht einfacher, wenn du vorher in der grauen Leiste auf den Button `Raw` klickst.)
